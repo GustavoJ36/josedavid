@@ -1,0 +1,10 @@
+.colorAmarillo{
+    color: yellow;
+    font-size: 100px;
+    border: 1px dashed red;
+}
+
+
+#colorRojo{
+    color: red;
+}
